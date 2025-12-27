@@ -8,6 +8,5 @@ Microsoft Excel
 This project analyzes bike sales by location over time.
 It explores trends based on age, income, and commute distance. 
 
-## Preview
->Click the image to see preview of final dashboard. 
-Bike Sales Analysis Screenshot.PNG
+
+
