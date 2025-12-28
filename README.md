@@ -4,7 +4,7 @@ Exploratory analysis of bike sales data using Excel
 ## Project Overview
 This project analyzes bike sales.
 It explores trends based on age, income, and commute distance. 
-![See reference to dashboard](
+[See reference to dashboard](Bike Sales Analysis Screenshot.PNG)
 
 ## Tools Used
 -Microsoft Excel - Data Cleaning, Pivot Tables, Data Visualization
