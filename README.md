@@ -1,13 +1,20 @@
 # Bike-Sales-Data-Analysis
 Exploratory analysis of bike sales data using Excel
 
-## Project Overview
+## Table of Contents
+-[Project Overview](#project-overview)
+
+-[Results](#results)
+
+-[Recommendations](#recommendations)
+
+### Project Overview
 This project analyzes bike sales.
 It explores trends based on age, income, and commute distance. 
 [See reference to dashboard] 
 <img width="2172" height="1364" alt="Bike Sales Analysis Screenshot" src="https://github.com/user-attachments/assets/fafaf6b3-6518-4eea-82b4-8d4a86db3299" />
 
-## Tools Used
+### Tools Used
 -Microsoft Excel - Data Cleaning, Pivot Tables, Data Visualization
 
 ### Data Cleaning
@@ -25,7 +32,7 @@ The EDA phase asked the following questions:
 ### Data Analysis
 Pivot Tables used to answer questions during EDA
 
-### Results/Findings
+### Results
 1. United States leads bike sales 
 2. Males buy more bikes than women
 3. Most bikes are purchased for a short commute (0-1 miles)
